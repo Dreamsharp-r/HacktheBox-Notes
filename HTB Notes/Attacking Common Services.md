@@ -91,6 +91,11 @@ Attacking SQL Databases
 The default schemas for MySQL and MSSQL
 ![[Pasted image 20240820185942.png]]
 
+Capturing MSSQL Service Hash is the ideal way to get access into other databases
+	-Use the command listed above for hash stealing but input the IP of your target
+	- In another window type in the cmd
+			- sudo impacket-smbserver share ./ -smb2support
+			- This will capture the NTLM hash of your target
 
 
 Attacking RDP
