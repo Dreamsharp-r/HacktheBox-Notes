@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB Notes/Intro to Network Traffic Analysis.md",
+                "file": "HTB Notes/Attacking Common Services.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f27b69c729b5a39c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB Notes/Intro to Network Traffic Analysis.md",
+                "file": "HTB Notes/Attacking Common Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB Notes/Intro to Network Traffic Analysis.md",
+                "file": "HTB Notes/Attacking Common Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB Notes/Intro to Network Traffic Analysis.md"
+                "file": "HTB Notes/Attacking Common Services.md"
               }
             }
           },
@@ -142,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 634.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,6 +160,7 @@
   "active": "870575845fb4e7fb",
   "lastOpenFiles": [
     "README.md",
+    "HTB Notes/Intro to Network Traffic Analysis.md",
     "HTB Notes/Intro to Assembly Language.md",
     "Pasted image 20240805121454.png",
     "Pasted image 20240805101630.png",
@@ -181,7 +184,6 @@
     "HTB Notes/Introduction to Active Directory.md",
     "Pasted image 20240805140117.png",
     "HTB Notes/File Transfer.md",
-    "HTB Notes/Intro to Network Traffic Analysis.md",
     "HTB Notes/Introduction.md",
     "HTB Notes/Attacking Web Applications with FFUF.md",
     "().md",

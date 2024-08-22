@@ -109,4 +109,3 @@ Attacking Email Services
 
 
 ![[Pasted image 20240805101813.png]]
-I know, I know I'm late to the party. But better late than never. I had my fair share of teachers, public speakers, or mentors talk to me and I gotta say your conversation with us really resonated with me. Don't ever stop doing what you doing. And I say that because what you do really matters. Your raw honesty with us created that connection you don't find. I hope everything is well and that you will be back next year.  Someday, I will also have a TED Talk of my own on cybersecurity. 
