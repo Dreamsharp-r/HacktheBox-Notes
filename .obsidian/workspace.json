@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attacking Common Services.md",
+                "file": "HTB Notes/Intro to Network Traffic Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 419.5
   },
   "right": {
     "id": "f27b69c729b5a39c",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attacking Common Services.md",
+                "file": "HTB Notes/Intro to Network Traffic Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attacking Common Services.md",
+                "file": "HTB Notes/Intro to Network Traffic Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attacking Common Services.md"
+                "file": "HTB Notes/Intro to Network Traffic Analysis.md"
               }
             }
           },
@@ -155,37 +155,36 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "870575845fb4e7fb",
+  "active": "f9e0c72bdd61a186",
   "lastOpenFiles": [
+    "HTB Notes/Intro to Assembly Language.md",
+    "Pasted image 20240805121454.png",
+    "Pasted image 20240805101630.png",
+    "Pasted image 20240714191326.png",
+    "Pasted image 20240714192222.png",
+    "Pasted image 20240714230839.png",
+    "Pasted image 20240805101502.png",
+    "HTB Notes/Stack-based Buffer Overflows on Linux X86 1.md",
+    "HTB Notes/Stack-based Buffer Overflows on Linux X86.md",
+    "Pasted image 20240714190930.png",
+    "Pasted image 20240713120444.png",
+    "HTB Notes/Introduction to Malware & Malware Analysis.md",
+    "HTB Notes/Attacking Common Services.md",
     "Pasted image 20240820185942.png",
     "HTB Notes/Getting Started.md",
     "HTB Notes/Hacking Word Press.md",
     "HTB Notes/Nibbles notes.md",
     "HTB Notes/Linux Fundamentals.md",
     "HTB Notes/Working with IDS_IPS.md",
-    "HTB Notes/Stack-based Buffer Overflows on Linux X86.md",
     "HTB Notes/SQL Injection Fundamentals.md",
     "HTB Notes/Introduction to Active Directory.md",
-    "Attacking Common Services.md",
     "Pasted image 20240805140117.png",
-    "Pasted image 20240805133605.png",
-    "Pasted image 20240805123948.png",
-    "Pasted image 20240805123858.png",
-    "Pasted image 20240805123710.png",
-    "Pasted image 20240805122722.png",
-    "Pasted image 20240805122315.png",
-    "Pasted image 20240805121945.png",
-    "Pasted image 20240805121454.png",
-    "Pasted image 20240805101935.png",
-    "Introduction to Malware & Malware Analysis.md",
     "HTB Notes/File Transfer.md",
     "HTB Notes/Intro to Network Traffic Analysis.md",
     "HTB Notes/Introduction.md",
     "HTB Notes/Attacking Web Applications with FFUF.md",
-    "Stack-based Buffer Overflows on Linux X86.md",
     "().md",
     "HTB Notes/Introduction to Threat Hunting & Hunting with Elas.md",
-    "HTB Notes/Intro to Assembly Language.md",
     "HTB Notes/Detecting Windows Attacks with Splunk.md",
     "HTB Notes/Introduction to Window Powershell.md",
     "HTB Notes/Bash Scripting.md",
