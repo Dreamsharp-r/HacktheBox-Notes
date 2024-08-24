@@ -101,6 +101,10 @@ Capturing MSSQL Service Hash is the ideal way to get access into other databases
 Attacking RDP
 	- Best way to get in is to perform Password Spraying. Works by attempting a single password for many usernames before trying another password, this avoid account lockout
 		- Crowbar tool
+		- Hydra tool
+	Different RDP systems:
+			- rdesktop
+			- xfreerdp
 
 
 
