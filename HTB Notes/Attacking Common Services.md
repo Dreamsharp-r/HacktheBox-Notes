@@ -105,6 +105,12 @@ Attacking RDP
 	Different RDP systems:
 			- rdesktop
 			- xfreerdp
+	Hijacking other users:
+			1. If another user is connected via RDP to the compromised machine you can hijack their session
+					- Open Powershell (PS) 
+			2. If somehow you acquire the hash of another user it can used in conjunction w/ xfreerdp to log in
+					- Restricted Admin Mode must be enabled on the target host
+					- Add a new reg key DisableRestrictedAdmin under HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Lsa
 
 
 
