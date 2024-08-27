@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB Notes/Intro to Assembly Language.md",
+                "file": "HTB Notes/Introduction to Threat Hunting & Hunting with Elas.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB Notes/Intro to Assembly Language.md",
+                "file": "HTB Notes/Introduction to Threat Hunting & Hunting with Elas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB Notes/Intro to Assembly Language.md",
+                "file": "HTB Notes/Introduction to Threat Hunting & Hunting with Elas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB Notes/Intro to Assembly Language.md"
+                "file": "HTB Notes/Introduction to Threat Hunting & Hunting with Elas.md"
               }
             }
           },
@@ -158,6 +158,8 @@
   },
   "active": "f9e0c72bdd61a186",
   "lastOpenFiles": [
+    "HTB Notes/Introduction to Malware & Malware Analysis.md",
+    "HTB Notes/Intro to Assembly Language.md",
     "HTB Notes/Detecting Windows Attacks with Splunk.md",
     "HTB Notes/Bug Bounty Programs.md",
     "HTB Notes/Bash Scripting.md",
@@ -166,7 +168,6 @@
     "HTB Notes/File Transfer.md",
     "README.md",
     "HTB Notes/Intro to Network Traffic Analysis.md",
-    "HTB Notes/Intro to Assembly Language.md",
     "Pasted image 20240805121454.png",
     "Pasted image 20240805101630.png",
     "Pasted image 20240714191326.png",
@@ -177,7 +178,6 @@
     "HTB Notes/Stack-based Buffer Overflows on Linux X86.md",
     "Pasted image 20240714190930.png",
     "Pasted image 20240713120444.png",
-    "HTB Notes/Introduction to Malware & Malware Analysis.md",
     "Pasted image 20240820185942.png",
     "HTB Notes/Getting Started.md",
     "HTB Notes/Hacking Word Press.md",
