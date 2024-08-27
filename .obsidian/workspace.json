@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB Notes/Introduction to Threat Hunting & Hunting with Elas.md",
+                "file": "HTB Notes/Intro to Assembly Language.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB Notes/Introduction to Threat Hunting & Hunting with Elas.md",
+                "file": "HTB Notes/Intro to Assembly Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB Notes/Introduction to Threat Hunting & Hunting with Elas.md",
+                "file": "HTB Notes/Intro to Assembly Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB Notes/Introduction to Threat Hunting & Hunting with Elas.md"
+                "file": "HTB Notes/Intro to Assembly Language.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   },
   "active": "f9e0c72bdd61a186",
   "lastOpenFiles": [
+    "HTB Notes/Introduction to Threat Hunting & Hunting with Elas.md",
     "HTB Notes/Introduction to Malware & Malware Analysis.md",
     "HTB Notes/Intro to Assembly Language.md",
     "HTB Notes/Detecting Windows Attacks with Splunk.md",
@@ -189,7 +190,6 @@
     "Pasted image 20240805140117.png",
     "HTB Notes/Introduction.md",
     "().md",
-    "HTB Notes/Introduction to Threat Hunting & Hunting with Elas.md",
     "HTB Notes/Introduction to Window Powershell.md",
     "HTB Notes/Windows Event Logs & Finding Evil.md",
     "HTB Notes/Using the Metasploit Framework.md",
