@@ -154,3 +154,10 @@ Understanding Email Services
 3. Once you find a custom server enumerate the ports on the server
 		![[Pasted image 20240902140845.png]]
 4. Use Nmap with the -sC option
+	- If an open port is found then verify with these commands
+			- VRFY     // Checks if the email username exists or not
+			- EXPN    // list all users found matching the key words inputted after EXPN
+			- RCPT TO   // identifies the recipient of the email message
+	- To automate the enumeration process use a tool called smtp-user-enum
+	 ![[Pasted image 20240902141756.png]]
+	- 
