@@ -160,8 +160,15 @@ Understanding Email Services
 			- RCPT TO   // identifies the recipient of the email message
 	- To automate the enumeration process use a tool called smtp-user-enum
 	 ![[Pasted image 20240902141756.png]]
-
-5. Cloud Enumeration
+			- If username is found to brute force it use the full username after the @ for hydra
+			- To bruteforce use hydra specifying smtp or pop3 or imap4 as wellas a password list
+			- if password found then to login use telnet with pop3
+				- Commands in pop3 are:
+					- USER <username>
+					- PASS <password>
+					- LIST // show amount of messages
+					- RETR 1 //show message in plaintext
+1. Cloud Enumeration
 	1. Use tools such as:
 		- O365spray (for Microsoft Office 365)
 		- MailSniper (for Microsoft Office 365)
