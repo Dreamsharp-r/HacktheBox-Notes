@@ -138,3 +138,19 @@ Attacking Email Services
 
 
 ![[Pasted image 20240805101813.png]]
+Understanding Email Services
+
+![[Pasted image 20240902140113.png]]
+1. Pushing send establishes a connection via SMTP to the mail/email server
+2. Downloading emails will connect to a POP3 or IMAP4 server on the internet
+		-To identify a possible mail server is by the Mail Exchanger (MX) DNS record
+		- Use host or dig to query the domain
+			- Cloud service provider are usually providing the mail server
+				1. aspmx.l.google.com
+				2. microsoft-com.mail.protection.outlook.com
+				3. mx.zoho.com
+			- Finding a custom made server opens the door to misconfiguration
+				1. mail1.inlanefreight.htb.
+3. Once you find a custom server enumerate the ports on the server
+		![[Pasted image 20240902140845.png]]
+4. Use Nmap with the -sC option

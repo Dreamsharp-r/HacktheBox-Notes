@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f27b69c729b5a39c",
@@ -158,6 +159,8 @@
   },
   "active": "f9e0c72bdd61a186",
   "lastOpenFiles": [
+    "Pasted image 20240902140845.png",
+    "Pasted image 20240902140113.png",
     "Pasted image 20240902133855.png",
     "HTB Notes/Intro to Assembly Language.md",
     "HTB Notes/Introduction to Threat Hunting & Hunting with Elas.md",
@@ -180,7 +183,6 @@
     "HTB Notes/Stack-based Buffer Overflows on Linux X86.md",
     "Pasted image 20240714190930.png",
     "Pasted image 20240713120444.png",
-    "Pasted image 20240820185942.png",
     "HTB Notes/Getting Started.md",
     "HTB Notes/Hacking Word Press.md",
     "HTB Notes/Nibbles notes.md",
@@ -188,7 +190,6 @@
     "HTB Notes/Working with IDS_IPS.md",
     "HTB Notes/SQL Injection Fundamentals.md",
     "HTB Notes/Introduction to Active Directory.md",
-    "Pasted image 20240805140117.png",
     "HTB Notes/Introduction.md",
     "().md",
     "HTB Notes/Introduction to Window Powershell.md",
