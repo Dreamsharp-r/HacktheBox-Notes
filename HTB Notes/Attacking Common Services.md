@@ -160,4 +160,9 @@ Understanding Email Services
 			- RCPT TO   // identifies the recipient of the email message
 	- To automate the enumeration process use a tool called smtp-user-enum
 	 ![[Pasted image 20240902141756.png]]
-	- 
+
+5. Cloud Enumeration
+	1. Use tools such as:
+		- O365spray (for Microsoft Office 365)
+		- MailSniper (for Microsoft Office 365)
+		- CredKing (for Gmail or Okta)
