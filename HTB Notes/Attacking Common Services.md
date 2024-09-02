@@ -126,10 +126,12 @@ Attacking DNS
 1. Perform a Nmap sweep
 2. Perform a zone transfer w/ dig AXFR
 	1. Tools exist as well. 
-		1. Fierce
+		1. Fierce // perform enumeration on all DNS servers of the root domain for zone transfers
 		2. ![[Pasted image 20240902133855.png]]
 
-
+3. To perform subdomain enumeration sweeps use these tools:
+	1. Subbrute
+	2. Subfinder
 
 Attacking Email Services
 
