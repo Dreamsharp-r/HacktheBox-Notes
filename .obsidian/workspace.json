@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB Notes/Intro to Assembly Language.md",
-                "mode": "preview",
+                "file": "HTB Notes/Attacking Common Services.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB Notes/Intro to Assembly Language.md",
+                "file": "HTB Notes/Attacking Common Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB Notes/Intro to Assembly Language.md",
+                "file": "HTB Notes/Attacking Common Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB Notes/Intro to Assembly Language.md"
+                "file": "HTB Notes/Attacking Common Services.md"
               }
             }
           },
@@ -158,9 +158,10 @@
   },
   "active": "f9e0c72bdd61a186",
   "lastOpenFiles": [
+    "Pasted image 20240902133855.png",
+    "HTB Notes/Intro to Assembly Language.md",
     "HTB Notes/Introduction to Threat Hunting & Hunting with Elas.md",
     "HTB Notes/Introduction to Malware & Malware Analysis.md",
-    "HTB Notes/Intro to Assembly Language.md",
     "HTB Notes/Detecting Windows Attacks with Splunk.md",
     "HTB Notes/Bug Bounty Programs.md",
     "HTB Notes/Bash Scripting.md",
@@ -193,7 +194,6 @@
     "HTB Notes/Introduction to Window Powershell.md",
     "HTB Notes/Windows Event Logs & Finding Evil.md",
     "HTB Notes/Using the Metasploit Framework.md",
-    "HTB Notes/Understanding Log Sources & Investigating with Spl.md",
     "HTB Notes/Attachments",
     "HTB Notes"
   ]

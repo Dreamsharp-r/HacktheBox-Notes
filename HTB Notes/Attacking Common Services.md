@@ -123,6 +123,14 @@ Attacking DNS
 
 
 ![[Pasted image 20240805101759.png]]
+1. Perform a Nmap sweep
+2. Perform a zone transfer w/ dig AXFR
+	1. Tools exist as well. 
+		1. Fierce
+		2. ![[Pasted image 20240902133855.png]]
+
+
+
 Attacking Email Services
 
 
