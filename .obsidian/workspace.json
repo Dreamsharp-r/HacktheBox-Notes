@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB Notes/Introduction to Windows.md",
+                "file": "HTB Notes/Introduction to Malware & Malware Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "malware analysis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB Notes/Introduction to Windows.md",
+                "file": "HTB Notes/Introduction to Malware & Malware Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB Notes/Introduction to Windows.md",
+                "file": "HTB Notes/Introduction to Malware & Malware Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB Notes/Introduction to Windows.md"
+                "file": "HTB Notes/Introduction to Malware & Malware Analysis.md"
               }
             }
           },
@@ -158,6 +159,7 @@
   },
   "active": "f9e0c72bdd61a186",
   "lastOpenFiles": [
+    "HTB Notes/Introduction to Windows.md",
     "HTB Notes/Attacking Common Services.md",
     "HTB Notes/SQL Injection Fundamentals.md",
     "Pasted image 20240902141756.png",
