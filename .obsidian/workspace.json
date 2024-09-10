@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB Notes/Attacking Common Services.md",
+                "file": "HTB Notes/Getting Started.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB Notes/Attacking Common Services.md",
+                "file": "HTB Notes/Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB Notes/Attacking Common Services.md",
+                "file": "HTB Notes/Getting Started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB Notes/Attacking Common Services.md"
+                "file": "HTB Notes/Getting Started.md"
               }
             }
           },
@@ -158,10 +158,10 @@
   },
   "active": "f9e0c72bdd61a186",
   "lastOpenFiles": [
+    "HTB Notes/Attacking Common Services.md",
     "HTB Notes/Using the Metasploit Framework.md",
     "HTB Notes/Introduction to Malware & Malware Analysis.md",
     "HTB Notes/Introduction to Windows.md",
-    "HTB Notes/Attacking Common Services.md",
     "HTB Notes/SQL Injection Fundamentals.md",
     "Pasted image 20240902141756.png",
     "Pasted image 20240902140845.png",
