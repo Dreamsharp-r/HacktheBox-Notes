@@ -65,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f27b69c729b5a39c",
@@ -158,7 +156,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6c1fbc10fd18dde6",
+  "active": "fa74d33b6d0526f9",
   "lastOpenFiles": [
     "HTB Notes/Getting Started.md",
     "HTB Notes/Hacking Word Press.md",
